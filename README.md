@@ -4,7 +4,7 @@
 
 1. Clone or download this repository to your local machine.
 2. Install all the libraries mentioned in the [requirements.txt](https://github.com/shreyas-9/Movie_Recommender_System/blob/main/Requirements.txt) file
-3. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `streamlit run app.py`.
+3. Open your terminal/command prompt from your project directory and run the file `app.py` by executing the command `streamlit run app.py`.
 5. Hurray! That's it.
 
 
