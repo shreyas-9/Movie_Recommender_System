@@ -29,7 +29,6 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
     In this case there will be less diversity in the recommendations, but this will work either the user rates things or not.
     
    ![image](https://miro.medium.com/max/625/1*BME1JjIlBEAI9BV5pOO5Mg.png)
-}
 
 ### Sources of the datasets 
 
